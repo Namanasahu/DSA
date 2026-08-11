@@ -6,15 +6,18 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Namanasahu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Namanasahu/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Namanasahu/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Namanasahu/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Namanasahu/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Namanasahu/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Namanasahu/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Namanasahu/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
