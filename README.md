@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Namanasahu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Namanasahu/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Namanasahu/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Namanasahu/DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Namanasahu/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Namanasahu/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Namanasahu/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Namanasahu/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Namanasahu/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -91,6 +93,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Namanasahu/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
