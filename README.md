@@ -16,6 +16,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Namanasahu/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Namanasahu/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Namanasahu/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Namanasahu/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Namanasahu/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@
 | [0058-length-of-last-word](https://github.com/Namanasahu/DSA/tree/master/0058-length-of-last-word) |
 | [1446-consecutive-characters](https://github.com/Namanasahu/DSA/tree/master/1446-consecutive-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Namanasahu/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Namanasahu/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Namanasahu/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Namanasahu/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Namanasahu/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Namanasahu/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
 |  |
 | ------- |
