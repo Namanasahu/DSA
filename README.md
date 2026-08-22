@@ -49,6 +49,7 @@
 | [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/Namanasahu/DSA/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Namanasahu/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Namanasahu/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Namanasahu/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
