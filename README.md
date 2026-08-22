@@ -13,6 +13,7 @@
 | [1563-stone-game-v](https://github.com/Namanasahu/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Namanasahu/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Namanasahu/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Namanasahu/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Namanasahu/DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Namanasahu/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Namanasahu/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -44,6 +45,7 @@
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Namanasahu/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Namanasahu/DSA/tree/master/2029-stone-game-ix) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Namanasahu/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Namanasahu/DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Namanasahu/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/Namanasahu/DSA/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
