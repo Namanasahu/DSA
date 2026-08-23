@@ -44,6 +44,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Namanasahu/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Namanasahu/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Namanasahu/DSA/tree/master/2029-stone-game-ix) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Namanasahu/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Namanasahu/DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Namanasahu/DSA/tree/master/0058-length-of-last-word) |
 | [1446-consecutive-characters](https://github.com/Namanasahu/DSA/tree/master/1446-consecutive-characters) |
+| [1927-sum-game](https://github.com/Namanasahu/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Namanasahu/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Namanasahu/DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Namanasahu/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Namanasahu/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Namanasahu/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Namanasahu/DSA/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Namanasahu/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Namanasahu/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -128,6 +131,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Namanasahu/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Namanasahu/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Namanasahu/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
