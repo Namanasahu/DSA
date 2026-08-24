@@ -11,6 +11,7 @@
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Namanasahu/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Namanasahu/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Namanasahu/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Namanasahu/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Namanasahu/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Namanasahu/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -44,6 +45,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Namanasahu/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Namanasahu/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Namanasahu/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Namanasahu/DSA/tree/master/2029-stone-game-ix) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Namanasahu/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -114,29 +116,34 @@
 | [0118-pascals-triangle](https://github.com/Namanasahu/DSA/tree/master/0118-pascals-triangle) |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Namanasahu/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Namanasahu/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Namanasahu/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/Namanasahu/DSA/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Namanasahu/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Namanasahu/DSA/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Namanasahu/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Namanasahu/DSA/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Namanasahu/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Namanasahu/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Namanasahu/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Namanasahu/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Namanasahu/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Namanasahu/DSA/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
