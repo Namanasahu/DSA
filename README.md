@@ -75,6 +75,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Namanasahu/DSA/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Namanasahu/DSA/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Namanasahu/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1446-consecutive-characters](https://github.com/Namanasahu/DSA/tree/master/1446-consecutive-characters) |
 | [1927-sum-game](https://github.com/Namanasahu/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Namanasahu/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Namanasahu/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Namanasahu/DSA/tree/master/0118-pascals-triangle) |
+| [0940-distinct-subsequences-ii](https://github.com/Namanasahu/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Namanasahu/DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Namanasahu/DSA/tree/master/1872-stone-game-viii) |
